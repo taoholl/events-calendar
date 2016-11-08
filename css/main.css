@@ -1,0 +1,52 @@
+@viewport { width: device-width; scale: 1; }
+
+html {
+  box-sizing: border-box;
+  font-family: "Merriweather", serif;
+  box-sizing: border-box;
+  -moz-text-size-adjust: 100%;
+  -ms-text-size-adjust: 100%;
+  -webkit-text-size-adjust: 100%;
+  text-size-adjust: 100%;
+  font-family: Merriweather, serif;
+   }
+
+   *, *::before, *::after {
+     box-sizing: inherit;
+    }
+
+
+.grey {
+  background-color: #f2f2f2;
+  border-radius: 6px;
+  border-style: solid;
+  border-width: 2px;
+  color:#333;
+}
+
+.red {
+  background-color: #f2bcbc;
+  border-radius: 6px;
+  border-style: solid;
+  border-width: 2px;
+  color:#991919;
+  border-color:#b92828
+}
+
+.green {
+  background-color: #d1e0bf;
+  border-radius: 6px;
+  border-style: solid;
+  border-width: 2px;
+  color:#51603f;
+  border-color:#6b7e54;
+}
+
+.blue {
+  background-color: #d2d6f0;
+  border-radius: 6px;
+  border-style: solid;
+  border-width: 2px;
+  color:#38448e;
+  border-color:#1d38da;
+}
